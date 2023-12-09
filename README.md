@@ -1,3 +1,5 @@
+## Moser's Circle Problem 
+
 simple project trying to solve Moser's Circle Problem 
 i saw it on a 3blue1brown youtube channel and tried to solve it on paper. i struggle a little to express the recurciveness of the function in mathematical terms, so i decided to solve it on code.  
 
