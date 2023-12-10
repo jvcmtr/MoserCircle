@@ -5,7 +5,6 @@ def solveForPoints(n_points):
     prev = solveForPoints(n_points-1)
     return prev + getExtraRegions(n_points)
 
-
 def getExtraRegions(nth_point):
     on_right = nth_point - 2
     on_left = 0
@@ -20,6 +19,7 @@ def getExtraRegions(nth_point):
 
 def drawLine(left, right):
     return (left*right)+1
+
 
 for i in range(1, 20):
     print(f"{i} : {solveForPoints(i)}")
