@@ -2,7 +2,7 @@
 
 **A simple project trying to solve the Moser's Circle Problem** i saw on a 3blue1brown (youtube) video. First i tried to solve it on paper and struggle a little to express the recurciveness of the function in mathematical terms, so i decided to solve it on code.
 
-> **Problem statement:** if you define N points in a circle and draw lines connecting all of them, you devided the circle in how many regions (given that 3 lines never intersect)
+> **Problem statement:** if you define N points in a circle and draw lines connecting all of them, you devided the circle in how many regions? (given that 3 lines never intersect)
 > * Teaser video: https://www.youtube.com/shorts/VFbyGEZLMZw
 > * Solution: https://www.youtube.com/watch?v=YtkIWDE36qU
 
